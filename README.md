@@ -4,5 +4,5 @@ The first capstone project for the Thinkful Data Science Immersion program (DSI0
 Included in this repo:
   - wowbgs2.csv : Original dataset downloaded from Kaggle for analysis.
   - ResearchProposal-ExperimentalDesignCapstone - Proposal document outlining the scope of the analysis and methods to be used.
-  - Notebook-ExperimentalDesignCapstone - Jypyter Notebook detailing the analysis conducted.
+  - Notebook-ExperimentalDesignCapstone - Jupyter Notebook detailing the analysis conducted.
   - Presentation-ExperimentalDesignCapstone - Presentation slides outlining conclusions as presented to the DSI09 cohort for peer review.
