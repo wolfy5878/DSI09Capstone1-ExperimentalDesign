@@ -1,8 +1,8 @@
 # DSI09Capstone1-ExperimentalDesign
-My first capstone project for the Thinkful Data Science Immersion program (DSI09) to demonstrate my grasp of the material related to Experimental Design.
+The first capstone project for the Thinkful Data Science Immersion program (DSI09) is to demonstrate my grasp of the material related to Experimental Design. The chosen dataset was gathered from Kaggle and involves World of Warcraft Battleground data collected within a specified period of time leading up to early 2018.
 
 Included in this repo:
-  - Original dataset downloaded from Kaggle for analysis.
-  - Research Proposal - outlining scope of the analysis and methods.
-  - Capstone 1 - WoW Battlegrounds - Jypyter Notebook of analysis conducted.
-  - Capstone Presentation Slides - (will be added when complete)
+  - wowbgs2.csv : Original dataset downloaded from Kaggle for analysis.
+  - ResearchProposal-ExperimentalDesignCapstone - Proposal document outlining the scope of the analysis and methods to be used.
+  - Notebook-ExperimentalDesignCapstone - Jypyter Notebook detailing the analysis conducted.
+  - Presentation-ExperimentalDesignCapstone - Presentation slides outlining conclusions as presented to the DSI09 cohort for peer review.
